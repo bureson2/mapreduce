@@ -1,0 +1,31 @@
+Chicken Schnitzel; No; 25 minutes; Yes; Fast food; Ingredients: Chicken breasts, oil, egg, breadcrumbs
+Caprese Salad; Yes; 15 minutes; No; Salad; Ingredients: Tomatoes, mozzarella, basil, olive oil
+Tofu and Vegetable Stir-Fry; Yes; 20 minutes; Yes; Side dish; Ingredients: Tofu, vegetables, soy sauce
+Lasagna Bolognese; No; 50 minutes; Yes; Pasta; Ingredients: Beef, tomato sauce, pasta
+Quinoa Salad with Allergen Substitute; Yes; 30 minutes; No; Salad; Ingredients: Quinoa, vegetables, gluten-free dressing
+Tempura Sushi Rolls; Yes; 35 minutes; No; Sushi; Ingredients: Fish, rice, nori seaweed
+Tomato Pasta Salad; Yes; 20 minutes; Yes; Salad; Ingredients: Pasta, tomatoes, cheese
+Beef Goulash; No; 120 minutes; Yes; Traditional; Ingredients: Beef, onions, paprika
+Quiche with Broccoli; Yes; 40 minutes; No; Savory Pie; Ingredients: Broccoli, pastry, cream
+Penne with Tomatoes and Basil; Yes; 30 minutes; Yes; Pasta; Ingredients: Pasta, tomatoes, basil, cheese
+Mushroom Risotto; Yes; 30 minutes; Yes; Risotto; Ingredients: Rice, mushrooms, vegetable broth
+Baked Potato Gratin; Yes; 45 minutes; No; Side dish; Ingredients: Potatoes, cheese, cream
+Crispy Vegetable Wrap; Yes; 20 minutes; No; Wrap; Ingredients: Tortilla, vegetables, hummus
+Red Lentil Soup; Yes; 40 minutes; No; Soup; Ingredients: Red lentils, onions, tomatoes
+Quinoa Burger; Yes; 25 minutes; Yes; Burger; Ingredients: Quinoa, beans, sesame bun
+Vegetarian Chili; Yes; 35 minutes; No; Mexican food; Ingredients: Red beans, chickpeas, vegetables
+Baked Cauliflower with Broccoli; Yes; 30 minutes; No; Casseroles; Ingredients: Cauliflower, broccoli, cheese sauce
+Spaghetti with Tomato and Basil; Yes; 20 minutes; Yes; Pasta; Ingredients: Spaghetti, tomatoes, basil
+Vegetarian Pizza; Yes; 25 minutes; No; Pizza; Ingredients: Dough, tomato sauce, vegetables
+Clove-Spiced Potato Soup; Yes; 35 minutes; No; Soup; Ingredients: Potatoes, onions, cloves
+Lentil Salad with Feta Cheese; Yes; 15 minutes; Yes; Salad; Ingredients: Lentils, feta cheese, vegetables
+Grilled Salmon with Lemon; No; 25 minutes; Yes; Seafood; Ingredients: Salmon, lemon, herbs
+BBQ Pulled Pork Sandwich; No; 40 minutes; Yes; BBQ; Ingredients: Pulled pork, barbecue sauce, buns
+Chicken Fajitas; No; 30 minutes; No; Mexican; Ingredients: Chicken, bell peppers, tortillas
+Beef and Broccoli Stir-Fry; No; 25 minutes; No; Asian; Ingredients: Beef, broccoli, soy sauce
+Shrimp Scampi; No; 20 minutes; No; Seafood; Ingredients: Shrimp, garlic, butter
+Margherita Pizza; No; 15 minutes; Yes; Pizza; Ingredients: Pizza dough, tomato, mozzarella
+Beef Tacos; No; 20 minutes; Yes; Mexican; Ingredients: Ground beef, taco seasoning, tortillas
+Spaghetti Carbonara; No; 20 minutes; No; Italian; Ingredients: Spaghetti, eggs, bacon
+Chicken Alfredo; No; 30 minutes; Yes; Italian; Ingredients: Chicken, fettuccine, Alfredo sauce
+Thai Green Curry; No; 35 minutes; Yes; Thai; Ingredients: Chicken, green curry paste, coconut milk
